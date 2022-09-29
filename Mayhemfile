@@ -1,0 +1,5 @@
+project: gjson
+target: gjson
+
+cmds:
+  - cmd: /gjson.libfuzzer
